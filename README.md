@@ -2,7 +2,7 @@
 
 **Effective Date:** 29 October, 2025
 
-Center Church Frederick ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our mobile app ("the App") collects, uses, stores, and protects your personal information.
+CCFrederick ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how our mobile app ("the App") collects, uses, stores, and protects your personal information.
 
 ---
 
@@ -96,7 +96,7 @@ We may update this policy from time to time. We will notify you of material chan
 If you have any questions about this Privacy Policy, contact:
 
 **Center Church Frederick**  
-Email: centerchurchfrederick@gmail.com  
+Email: ccfapp.centerchurch@gmail.com  
 Website: [https://centrocristianofrederick.com](https://centrocristianofrederick.com)
 
 ---
@@ -122,4 +122,4 @@ Your data may be transferred to and stored on servers located outside your count
 
 By using this App, you agree to this Privacy Policy.
 
-**Last Updated:** 23 July, 2025
+**Last Updated:** 29 October, 2025
